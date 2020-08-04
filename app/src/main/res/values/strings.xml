@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Abacus Totaliser</string>
+    <string name="etfirstnumber">etFirstNumber</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="etsecondnumber">etSecondNumber</string>
+    <string name="answer">Answer</string>
+    <string name="textview">TextView</string>
+
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+    <string name="plus">+</string>
+    <string name="todo">TODO</string>
+    <string name="abacus">abacus</string>
+    <string name="by_aishwarya">Developed by Aishwarya</string>
+
+</resources>
